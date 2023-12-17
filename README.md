@@ -13,7 +13,8 @@ Ex software engineer intern at Oracle.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/Programming-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
+![C](https://img.shields.io/badge/Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br>
 
 
 
