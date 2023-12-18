@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am full stack developer and current student at Oregon State University. <br>
-
+- 🔭 I am a student at Oregon State University. <br>
 
 
 
