@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 Computer Science and Psychology graduate. <br>
 
