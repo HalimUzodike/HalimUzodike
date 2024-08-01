@@ -1,5 +1,5 @@
-`### Hi there 👋
-![Header](./your-header-image-name.png)
+## Hi there 👋
+
 - 🔭 Computer Science and Psychology graduate at Oregon State University and University if Maryland Baltimore County. <br>
 
 
