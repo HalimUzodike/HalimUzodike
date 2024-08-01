@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Computer Science and Psychology graduate at Oregon State University and University if Maryland Baltimore County. <br>
+- 🔭 Computer Science and Psychology graduate. <br>
 
 
 
