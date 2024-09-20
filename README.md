@@ -81,7 +81,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HalimUzodike&theme=ambient_gradient&hide_border=false)
 
 ## 🎧 Currently listening to 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12151570165&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12151570165)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12151570165&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **HalimUzodike/HalimUzodike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
