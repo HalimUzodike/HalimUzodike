@@ -1,6 +1,7 @@
 # Hi there 👋
 
-- 🔭 Computer Science and Psychology graduate. <br>
+- 🔭 Computer Science and Psychology graduate.
+- ⚡ Software Engineer interested in Human-Centered Artificial Intelligence.<br>
 
 
 
