@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Computer Science and Psychology graduate.
-- ⚡ Software Engineer interested in Human-Centered Artificial Intelligence.<br>
+- ⚡ Software Engineer interested in Human-Centered Artificial Intelligence.
 
 
 
@@ -80,14 +80,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HalimUzodike&theme=ambient_gradient&hide_border=false)
 
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimuzodike&theme=ambient_gradient&hide_border=false&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halimuzodike&show_icons=true&theme=ambient_gradient&hide_border=false&line_height=27" alt="Halim Uzodike github stats"/>
-</a>
 
 ## 🎧 Currently listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12151570165&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
