@@ -3,7 +3,7 @@
 - 🔭 Computer Science, Psychology and Pre-Pharmacy graduate.
 - ⚡ Software Engineer interested in Human-Centered Artificial Intelligence.
 - 🤔 Building mods for Baldur's Gate 3 in my free time.
-- 🌱 Part-time environmental consultant
+- 🌱 Part-time environmental consultant.
 
 
 ## Currently looking for new graduate roles and internships.
