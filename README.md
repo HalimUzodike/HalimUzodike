@@ -6,7 +6,7 @@
 - 🌱 Part-time environmental consultant.
 
 
-## Currently looking for new graduate roles and internships.
+## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halim-uzodike-a1b2016b/)
 
 ## Technologies Used:
