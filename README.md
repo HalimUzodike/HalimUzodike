@@ -79,7 +79,7 @@
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HalimUzodike&theme=ambient_gradient)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimUzodike&theme=codestackr)](https://git.io/streak-stats)
 
 
 ## 🎧 Currently listening to 🎧
