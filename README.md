@@ -78,7 +78,7 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=yellow)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=skyblue)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=blue)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=for-the-badge&logo=RubyMine&logoColor=white&color=black&labelColor=crimson)
 
 ## GitHub Stats
 
