@@ -82,7 +82,7 @@
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)](https://brew.sh)
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://www.zsh.org)
-[![Wezterm](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white)](https://ghostty.org)
+[![Ghostty](https://img.shields.io/badge/ghostty-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white)](https://ghostty.org)
 
 ## 🎧 Currently listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12151570165&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
