@@ -70,13 +70,13 @@
 
 ## IDEs/Editors
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![RustRover](https://img.shields.io/badge/RustRover-000000.svg?style=for-the-badge&logo=Rust&logoColor=black&color=black&labelColor=brown)](https://www.jetbrains.com/rust/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=orange)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow)](https://www.jetbrains.com/pycharm/)
 [![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=for-the-badge&logo=RubyMine&logoColor=black&color=black&labelColor=crimson)](https://www.jetbrains.com/ruby/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=orange)](https://www.jetbrains.com/idea/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)](https://www.jetbrains.com/phpstorm/)
-[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=yellow)](https://www.jetbrains.com/webstorm/)
-[![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=black&color=black&labelColor=skyblue)](https://www.jetbrains.com/go/)
+[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=white)](https://www.jetbrains.com/webstorm/)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=blue)](https://www.jetbrains.com/clion/)
+[![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=black&color=black&labelColor=lightblue)](https://www.jetbrains.com/go/)<br>
 
 
 ## 🎧 Currently listening to 🎧
