@@ -84,7 +84,7 @@
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=white)](https://www.jetbrains.com/webstorm/)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=blue)](https://www.jetbrains.com/clion/)
 [![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=black&color=black&labelColor=lightblue)](https://www.jetbrains.com/go/)<br>
-
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)<br>
 
 ## Terminal
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
