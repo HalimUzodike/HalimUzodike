@@ -78,7 +78,7 @@
 ## IDEs/Editors
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![RustRover](https://img.shields.io/badge/RustRover-000000.svg?style=for-the-badge&logo=Rust&logoColor=black&color=black&labelColor=orange)](https://www.jetbrains.com/rust/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=purple)](https://www.jetbrains.com/idea/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow)](https://www.jetbrains.com/pycharm/)
 [![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=for-the-badge&logo=RubyMine&logoColor=black&color=black&labelColor=crimson)](https://www.jetbrains.com/ruby/)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=white)](https://www.jetbrains.com/webstorm/)<br>
