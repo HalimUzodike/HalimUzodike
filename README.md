@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Computer Science, Psychology and Pre-Pharmacy graduate.
-- ⚡ Software Engineer interested in High-Performance Computing and Human-Centered Artificial Intelligence.
+- ⚡ Software Engineer interested in Human-Centered Artificial Intelligence.
 - 🤔 Building mods for Baldur's Gate 3 in my free time.
 - 🌱 Part-time environmental consultant.
 
