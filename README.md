@@ -79,13 +79,7 @@
 
 ## IDEs/Editors
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![RustRover](https://img.shields.io/badge/RustRover-000000.svg?style=for-the-badge&logo=Rust&logoColor=black&color=black&labelColor=orange)](https://www.jetbrains.com/rust/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/idea/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow)](https://www.jetbrains.com/pycharm/)
-[![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=for-the-badge&logo=RubyMine&logoColor=black&color=black&labelColor=crimson)](https://www.jetbrains.com/ruby/)
-[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=white)](https://www.jetbrains.com/webstorm/)<br>
-[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=blue)](https://www.jetbrains.com/clion/)
-[![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=black&color=black&labelColor=lightblue)](https://www.jetbrains.com/go/)
+![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)<br>
 
 ## Terminal
